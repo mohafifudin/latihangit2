@@ -8,5 +8,9 @@
 <body>
     <h1> hello world </h1>
     <p> halo </p>
+    <ol>
+    <li>list 1</li>
+    <li>list 2</li> 
+    </ol>
 </body>
 </html>
